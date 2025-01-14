@@ -1,5 +1,5 @@
 ## Hi there 👋. I'm a software engineer who came from a career in music🎷. I love to build build build build build 🏗️. 
-#### Presently working on an AI-powered E-Commerce application with my buddy Joao Matos, composed in Blazor, deployed via Docker Container here: http://intellishop.haxbyte.com:8080/.
+#### Presently working on an AI-powered E-Commerce application with my buddy Joao Matos, composed in Blazor, deployed via Docker Container here: http://intellishop.haxbyte.com.
 
 #### My most recent position was at an AI company 🤖 creating frontends for Dotnet applications (Blazor, MVC). I worked with the team to refactor a customer portal, create an admin portal from scratch, produce a functional application for a fortune 100 company, and an AI-powered chatbot. The last project was for a top national law firm that requested a custom application to help sort through a litigants in a class-action lawsuit. Our application made it possible to enter a chat prompt into a tablet, and discover whether or not the person met the requirements. Additionally, the app supplied the documents that supported the conclusion.
 #### I have also worked for a medium-sized manufacturing firm and a B2B marketing company. As of January, 2025, I am looking for a new role.
