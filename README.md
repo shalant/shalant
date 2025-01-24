@@ -1,7 +1,7 @@
 ## Hi there 👋. I'm a software engineer who came from a career in music🎷. I love to build build build build build 🏗️. 
 <!-- #### Presently working on an AI-powered E-Commerce application with my buddy Joao Matos, composed in Blazor, deployed via Docker Container here: http://intellishop.haxbyte.com. -->
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/6073aa765f644d7198cfe761182f1358?sid=802cf4ee-f5c4-4a4b-8204-fbcf55acbc91" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Introduction to My Software Engineering Journey - Watch Video
 
 #### .NET developer, full stack with Angular and Azure. Strongest in Blazor. 3x AWS certified (SAA/Dev), 2x Azure certified (Az-204 and Az-900). I know Figma, basic DevOps (Terraform, Ansible, Docker, Kubernetes, and Jenkins), as well as Javascript/React/MERN stack. I presently have more than 300 repos in Github: https://github.com/shalant. The strongest part of my portfolio is the sheer amount of applications that I have built! Currently composing an AI-powered E-Commerce application called Intellicart, using Blazor and cheaply hosted via Docker and Digital Ocean. Please ask me about it :)
 
