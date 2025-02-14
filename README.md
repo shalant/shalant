@@ -20,7 +20,7 @@ Introduction to My Software Engineering Journey - Watch Video: https://www.loom.
 
 ![Dotnet](https://img.shields.io/badge/-Dotnet-000?&logo=Dotnet&logoColor=F90)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -29,7 +29,6 @@ Introduction to My Software Engineering Journey - Watch Video: https://www.loom.
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ![shalant's github stats](https://github-readme-stats.vercel.app/api?username=shalant)
