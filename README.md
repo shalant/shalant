@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Intellishop.Haxbyte.com
 - 🌱 I’m learning more Blazor/C# and Docker/Devops/CICD
-- 👯 I’m looking to collaborate on a great team at a new company
-- 🤔 I’m looking for help with landing a dream job
 - 💬 Ask me about playing any song in the key of C#
 - 📫 How to reach me: doug.rosenberg@gmail.com
 - ⚡ Fun fact: Beethoven's magnum opus is the C# quartet opus #131
