@@ -28,7 +28,9 @@
 ### ⭐ Personal Projects
 #### [ArborKin](https://github.com/shalant/ArborKin) — JS‑free generational layout engine + Azure SQL + CI/CD
 
-#### [BizMachina](https://github.com/shalant/BizMachina) — AI document ingestion + RAG pipelines + custom MCP servers
+#### [BizMachina](https://github.com/shalant/BizMachina) — AI-powered document ingestion for SMB paperwork processing
+
+#### [GigSync](https://github.com/shalant/GigSync) — musician gig-calendar automation: parses gig-confirmation emails via the Claude API and auto-updates a client's website through an embeddable widget (live backend on Cloudflare Workers, validated against a real client site)
 
 #### Portfolio + Music Sites — Shared Razor Class Library + responsive UI + animations
 
@@ -37,7 +39,7 @@
 
 #### Frontend: Angular, React, TypeScript, Syncfusion, DevExpress
 
-#### AI/LLM: RAG pipelines, MCP servers, Claude Code, GitHub Copilot
+#### AI/LLM: Daily power user of Claude Code + GitHub Copilot for architecture, refactoring, and debugging
 
 #### Cloud/DevOps: Azure, AWS, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
 
@@ -123,11 +125,12 @@
 
 ![shalant’s github stats](https://github-readme-stats.vercel.app/api?username=shalant)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalant)](https://github.com/shalant)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shalant)
 
 ---
 
-- 🔭 I’m currently working on ArborKin - a custom family tree app, and BizMachina, an AI-assisted paperwork processing application for SMBs
-- 🌱 I’m learning more Blazor/C#, CI/CD, RAG, MCP, and mobile development
+- 🔭 I’m currently working on ArborKin - a custom family tree app, BizMachina - an AI-assisted paperwork processing application for SMBs, and GigSync - gig-calendar automation for musicians
+- 🌱 I’m learning more Blazor/C#, CI/CD, and mobile development — plus figuring out how far AI coding assistants can push day-to-day dev productivity
 - 💬 Ask me about playing any song in the key of C#
 - 📫 How to reach me: doug.rosenberg@gmail.com
 - ⚡ Fun fact: Beethoven’s magnum opus is the C# quartet opus #131
