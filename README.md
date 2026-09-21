@@ -32,7 +32,7 @@
 
 #### [GigSync](https://github.com/shalant/GigSync) — musician gig-calendar automation: parses gig-confirmation emails via the Claude API and auto-updates a client's website through an embeddable widget (live backend on Cloudflare Workers, validated against a real client site)
 
-#### Portfolio + Music Sites — Shared Razor Class Library + responsive UI + animations
+#### [Portfolio](https://dougrosenbergdev.com) + [Music Site](https://dougrosenberg.com) — Astro, deployed on Cloudflare Workers
 
 ### 🧰 Skills
 #### Core: C#, .NET 8–10, Blazor (Server/WASM/Hybrid), MAUI, SQL Server, EF Core
