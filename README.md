@@ -2,6 +2,14 @@
 
 ## Full‑stack .NET + Blazor developer specializing in MAUI Hybrid, SQL, DevOps, and AI‑powered workflows.
 
+### 🤝 Work with me
+
+I build custom websites for Chicago small businesses and for musicians and bands, and do AI-forward custom .NET ERP work. In person around Chicago, or remote.
+
+- [Websites for Chicago small businesses](https://dougrosenbergdev.com/chicago-web-design/)
+- [Websites for musicians and bands](https://dougrosenbergdev.com/musician-websites/)
+- [Services and rates](https://dougrosenbergdev.com/services/)
+
 ### 🚀 What I’m doing now
 
 #### Building a full ERP system for a global nonprofit (10+ production Blazor apps).
@@ -33,6 +41,8 @@
 #### [GigSync](https://github.com/shalant/GigSync) — musician gig-calendar automation: parses gig-confirmation emails via the Claude API and auto-updates a client's website through an embeddable widget (live backend on Cloudflare Workers, validated against a real client site)
 
 #### [Portfolio](https://dougrosenbergdev.com) + [Music Site](https://dougrosenberg.com) — Astro, deployed on Cloudflare Workers
+
+#### [Writing on dev.to](https://dev.to/shalant) — build notes on Blazor, Astro, and small-business web development
 
 ### 🧰 Skills
 #### Core: C#, .NET 8–10, Blazor (Server/WASM/Hybrid), MAUI, SQL Server, EF Core
