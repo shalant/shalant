@@ -131,7 +131,7 @@ I build custom websites for Chicago small businesses and for musicians and bands
 
 ### 📊 Portfolio & Presence
 
-**[View 360+ projects on GitHub →](https://github.com/shalant)**
+**[View 340+ projects on GitHub →](https://github.com/shalant)**
 
 ![shalant’s github stats](https://github-readme-stats.vercel.app/api?username=shalant)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalant)](https://github.com/shalant)
